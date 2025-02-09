@@ -1,0 +1,4 @@
+secrets.txt
+
+
+for override from desktop to git-: git push origin master -f. # -f = force push
